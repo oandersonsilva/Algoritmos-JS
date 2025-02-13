@@ -1,5 +1,10 @@
+// Somando os números de um array com a recursividade
+
 function somaArray(arr, index = 0) {
-    if (index === arr.length) return 0; // Caso base
+    if (index === arr.length) {
+        return 0; // Caso base
+    }
+       
     return arr[index] + somaArray(arr, index + 1); // Chamada recursiva
 }
 

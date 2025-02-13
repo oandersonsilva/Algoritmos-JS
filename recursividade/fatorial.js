@@ -8,3 +8,4 @@ function fatorial(n) {
 }
 
 console.log(fatorial(5)); // Saída: 120
+console.log(fatorial(10)); // Saída: 3628800
