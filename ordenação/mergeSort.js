@@ -1,7 +1,7 @@
-//O Merge Sort é um algoritmo de ordenação ordenação por divisão e conquista que consiste em dividir 
-// uma estrutura em subconjuntos e ir ordenando os elementos que foram extraídos.
-// Após a ordenação destes subconjuntos, é feita a mistura destes em um conjunto final ordenado.
-
+/*O Merge Sort é um algoritmo de ordenação ordenação por divisão e conquista que consiste em dividir 
+ uma estrutura em subconjuntos e ir ordenando os elementos que foram extraídos.
+Após a ordenação destes subconjuntos, é feita a mistura destes em um conjunto final ordenado.
+*/
 function mergeSort(arr) {
     if (arr.length <= 1) 
         return arr;

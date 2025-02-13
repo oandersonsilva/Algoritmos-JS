@@ -1,5 +1,6 @@
-//O algoritmo Quicksort é um método de ordenação que divide um conjunto de dados em subconjuntos menores, 
-//e os ordena recursivamente. 
+/*O algoritmo Quicksort é um método de ordenação que divide um conjunto de dados em subconjuntos menores, 
+e os ordena recursivamente. 
+*/
 
 function quickSort(arr) {
     if (arr.length <= 1) return arr;

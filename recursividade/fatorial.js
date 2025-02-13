@@ -1,4 +1,4 @@
-// Utilizando recursividade para calcular a fatorial de um número
+//Utilizando recursividade para calcular a fatorial de um número
 
 function fatorial(n) {
     if (n === 0 || n === 1){

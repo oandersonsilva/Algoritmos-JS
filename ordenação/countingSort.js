@@ -1,5 +1,6 @@
-//O Counting Sort é um algoritmo de ordenação que conta 
-// quantas vezes cada número aparece e reorganiza o array.
+/*O Counting Sort é um algoritmo de ordenação que conta 
+ quantas vezes cada número aparece e reorganiza o array.
+*/
 
 function countingSort(arr) {
     let max = Math.max(...arr);

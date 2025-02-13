@@ -1,6 +1,6 @@
-//O Insertion Sort é um algoritmo de ordenação que constrói a sequência ordenada gradualmente,  
-// percorrendo um vetor de elementos da esquerda para a direita, inserindo os elementos na ordem correta.
-
+/*O Insertion Sort é um algoritmo de ordenação que constrói a sequência ordenada gradualmente,  
+ percorrendo um vetor de elementos da esquerda para a direita, inserindo os elementos na ordem correta.
+*/
 function insertionSort(arr) {
     let n = arr.length;
 

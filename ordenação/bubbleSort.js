@@ -1,5 +1,6 @@
-//O Bubble Sort é um algoritmo de ordenação simples que compara elementos adjacentes
-//  e os troca se estiverem fora de ordem. O processo é repetido até que a lista esteja ordenada.
+/*O Bubble Sort é um algoritmo de ordenação simples que compara elementos adjacentes
+e os troca se estiverem fora de ordem. O processo é repetido até que a lista esteja ordenada.
+*/
 
 function bubbleSort(arr) {
     let n = arr.length;

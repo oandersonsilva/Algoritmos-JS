@@ -1,6 +1,6 @@
-// O Selection Sort é um algoritmo de ordenação por comparação que seleciona o menor elemento
-//  de um array e o coloca na primeira posição. Esse processo é repetido até que o array esteja ordenado. 
-
+/* O Selection Sort é um algoritmo de ordenação por comparação que seleciona o menor elemento
+ de um array e o coloca na primeira posição. Esse processo é repetido até que o array esteja ordenado. 
+*/
 function selectionSort(arr) {
     let n = arr.length;
     
