@@ -24,6 +24,6 @@ function validarCPF(cpf) {
     return cpf.slice(-2) === `${digito1}${digito2}`;
 }
 
-// Exemplo de uso
-const cpfTeste = "413.369.048-10";
+
+const cpfTeste = "123.456.789-09";
 console.log(validarCPF(cpfTeste));
